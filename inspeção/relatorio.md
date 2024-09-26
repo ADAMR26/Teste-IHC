@@ -19,3 +19,8 @@
 *Adam Andrade Ribeiro* 1* = Italico
 
 ## Tabelas
+
+| Cabeçalho 1 | Cabeçalho 2 |
+|-------------|-------------|
+| Linha 1, C1 | Linha 1, C2 |
+| Linha 2, C1 | Linha 2, C2 |
